@@ -1,0 +1,1 @@
+evaluar[(x+b)*(x+c)]
