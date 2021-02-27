@@ -4,7 +4,7 @@ El siguiente interprete recibe como entrada una exprexión aritmética y devuelv
 
 Especificación del análisis léxico
 
-<img src="/imagenes/lexico.png" width="350" title="Análisis Léxico">
+<img src="./imagenes/lexico.png" width="350" title="Análisis Léxico">
 
 Asignación de asociatividad y precedencia de operadores
 
